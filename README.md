@@ -5,11 +5,18 @@
 
 Aspiring Data Analyst who is passionate about telling a story through data
 
-- 🔭 I’m currently working on data analysis projects - Building ETL Pipelines, Utilizing data cleaning/filtering/visualization, making insights on data that can lead to decision making
+- 🔭 I’m currently working on data analysis projects
+-   - Building ETL Pipelines 
+    - Utilizing data cleaning/filtering/visualization
+    - making data-driven insights
 - 🌱 Languages: Python, SQL, Javascript
 - ⚡ Background:
 - - University of Santa Barbara Graduate, BA in Economics & Accounting
-  - Hack Reactor Coding Bootcamp - Over 800 hours of coding | collaborated in an Agile and CI/CD development environment | participated in sprint planning, standups, and code reviews | experience with cross-functional teams
+  - Hack Reactor Coding Bootcamp
+    - Over 800 hours of coding with a cohort of 40 students
+    - collaborated in an Agile and CI/CD development environment 
+    - participated in sprint planning, standups, and code reviews 
+    - experience with cross-functional teams
   - Audit/Tax experience 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
