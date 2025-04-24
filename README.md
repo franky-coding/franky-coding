@@ -6,7 +6,7 @@
 Aspiring Data Analyst who is passionate about telling a story through data
 
 - 🔭 I’m currently working on data analysis projects:
-    - Building ETL Pipelines 
+    - Building ETL/ELT Pipelines 
     - Utilizing data cleaning/filtering/visualization
     - making data-driven insights
 
