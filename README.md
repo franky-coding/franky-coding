@@ -9,7 +9,9 @@ Aspiring Data Analyst who is passionate about telling a story through data
 -   - Building ETL Pipelines 
     - Utilizing data cleaning/filtering/visualization
     - making data-driven insights
+
 - 🌱 Languages: Python, SQL, Javascript
+
 - ⚡ Background:
 - - University of Santa Barbara Graduate, BA in Economics & Accounting
   - Hack Reactor Coding Bootcamp
