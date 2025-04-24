@@ -5,7 +5,7 @@
 
 Aspiring Data Analyst who is passionate about telling a story through data
 
-- 🔭 I’m currently working on data analysis projects
+- 🔭 I’m currently working on data analysis projects - Building ETL Pipelines, Utilizing data cleaning/filtering/visualization, making insights on data that can lead to decision making
 - 🌱 Languages: Python, SQL, Javascript
 - ⚡ Background:
 - - University of Santa Barbara Graduate, BA in Economics & Accounting
