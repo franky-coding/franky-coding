@@ -13,7 +13,7 @@ Aspiring Data Analyst who is passionate about telling a story through data
 - 🌱 Languages: Python, SQL, Javascript
 
 - ⚡ Background:
-- - University of Santa Barbara Graduate, BA in Economics & Accounting
+  - University of Santa Barbara Graduate, BA in Economics & Accounting
   - Hack Reactor Coding Bootcamp
     - Over 800 hours of coding with a cohort of 40 students
     - collaborated in an Agile and CI/CD development environment 
