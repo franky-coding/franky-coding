@@ -15,7 +15,7 @@ Aspiring analytics professional who is passionate about automating business proc
 - ⚡ Background:
   - University of Santa Barbara Graduate, BA in Economics & Accounting
   - Hack Reactor Coding Bootcamp
-    - Over 800 hours of coding with a cohort of 40 students
+    - Over 800 hours of coding with a competitive cohort of 40 students
     - collaborated in an Agile and CI/CD development environment 
     - participated in sprint planning, standups, and code reviews 
     - experience with cross-functional teams
