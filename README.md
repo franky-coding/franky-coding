@@ -3,7 +3,7 @@
 <!--
 **franky-coding/franky-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Aspiring Data Analyst who is passionate about automating business processes and creating insights the drive business and revenue growth
+Aspiring Professional Analyst who is passionate about automating business processes and creating insights the drive business and revenue growth
 
 - 🌱 Languages: Python, SQL, Javascript
 
