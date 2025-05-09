@@ -13,7 +13,7 @@ Aspiring analytics professional who is passionate about automating business proc
     - making data-driven insights
 
 - ⚡ Background:
-  - University of California, Santa Barbara Graduate, BA in Economics & Accounting
+  - University of California, Santa Barbara Graduate - BA in Economics & Accounting
   - Hack Reactor Coding Bootcamp
     - Over 800 hours of coding with a competitive cohort of 40 students
     - collaborated in an Agile and CI/CD development environment 
