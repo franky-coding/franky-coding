@@ -7,10 +7,10 @@ Aspiring analytics professional who is passionate about automating business proc
 
 - 🌱 Languages: Python, SQL, Javascript
 
-- 🔭 I’m currently working on data analysis projects:
+<!--- 🔭 I’m currently working on data analysis projects:
     - Building ETL/ELT Pipelines 
     - Utilizing data cleaning/filtering/visualization
-    - making data-driven insights
+    - making data-driven insights-->
 
 - ⚡ Background:
   - University of California, Santa Barbara Graduate - BA in Economics & Accounting
